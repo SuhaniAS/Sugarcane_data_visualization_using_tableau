@@ -44,5 +44,6 @@
 ![Screenshot 2024-01-24 164904](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/a3a9faa5-e82a-4cd6-82b4-59a694b151cb)
 #### When area is considered along, we can see that some of the districts has larger yield with lesser production area. 
 #### Now consider distric wise. 
+### 1.) Bagalkote:
 ![Screenshot 2024-01-24 165459](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/f0478c1a-a607-4650-bd45-831107f65d81)
-#### 1.) Bagalkote: There is reduction in yield though there is a change in the amount of area.
+#### There is reduction in yield though there is a change in the amount of area.
