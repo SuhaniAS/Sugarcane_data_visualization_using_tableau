@@ -3,7 +3,8 @@
 #
 #
 ## Data Source
-### Data is taken for Karnataka only from : http://data.icrisat.org/dld/src/crops.html 
+### Data is taken from (Karnataka only): http://data.icrisat.org/dld/src/crops.html 
+### I have uploaded the same data in kaggle website: https://www.kaggle.com/datasets/suhanias/sugarcane-data/data
 #
 #
 ## Features:
