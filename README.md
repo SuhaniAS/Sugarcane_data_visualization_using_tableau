@@ -1,8 +1,10 @@
 # Data Visualization using Tableau
 ### Since tableau is not a free software, all the Visualization will be shown here itself with the help of screen shots.
 #
-### Data Source
-## Data is taken for Karnataka only from : http://data.icrisat.org/dld/src/crops.html 
+#
+## Data Source
+### Data is taken for Karnataka only from : http://data.icrisat.org/dld/src/crops.html 
+#
 #
 ## Features:
 ### 1.) Year
@@ -11,11 +13,13 @@
 ### 4.) Sugarcane yield (kg per ha)
 ### 5.) Sugarcane production (1000 tons)
 #
+#
 ## Objective:
 ### Create different charts, graphs, dashboards, and stories for visualizing and analyzing data.
 #
+#
 ## Before analysing, let us know about the data: 
-#### Import the data in the tableau
+#### Import the data.
 ![Screenshot 2024-01-23 193413](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/99040768-f591-4e0c-a7e0-4a66949a6b46)
 #### From the status bar we get to know that there are 30 districts.
 #### To make further process easier, let us introduce color for each of the district.
