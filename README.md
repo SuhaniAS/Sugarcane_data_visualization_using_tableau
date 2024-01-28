@@ -51,6 +51,7 @@
 #### Mandya has greater yield with 313510 kg per ha when compaired to other districts.
 ![Screenshot 2024-01-24 164904](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/a3a9faa5-e82a-4cd6-82b4-59a694b151cb)
 #### When area is considered along, we can see that some of the districts has larger yield with lesser production area. 
+#### Along with the above, we can notice that though Belagaum has larger area (among the districts) it has lesser yield.
 #### Now consider distric wise. 
 ### 1.) Bagalkote:
 ![Screenshot 2024-01-24 165459](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/f0478c1a-a607-4650-bd45-831107f65d81)
