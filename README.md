@@ -30,8 +30,8 @@
 #### Thus, the data is available from the year 1990 - 2017.
 ### Whether the data from the year 1990 - 2017 is available for all the 30 districts?
 #### We can answer it using two methods of visualization.
-![Screenshot 2024-01-24 161458](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/f9e1cb12-5365-4ef6-89a4-23b1219a6a85)
-![Screenshot 2024-01-24 162102](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/042613eb-a81c-4a5d-aaf2-e8e93ca1add3)
+![Screenshot 2024-01-28 193042](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/cfde5366-ae11-4e87-b119-48c42e05732b)
+![Screenshot 2024-01-28 193454](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/8273f7b2-aa51-42a7-aa57-87b8b23aa4e5)
 ##### Note: Above, there are two types of visualization, where I haven't shown it completely. In tableau, you can see if you scroll down.
 #### The following districts do not have the complete data from the year 1990 - 2017:
 ####
