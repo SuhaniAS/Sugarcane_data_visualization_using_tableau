@@ -33,8 +33,16 @@
 ![Screenshot 2024-01-28 193042](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/cfde5366-ae11-4e87-b119-48c42e05732b)
 ![Screenshot 2024-01-28 193454](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/8273f7b2-aa51-42a7-aa57-87b8b23aa4e5)
 #### The following districts do not have the complete data from the year 1990 - 2017:
-####
-####
+#### 1.) Bagalkote
+#### 2.) Chamaraja Nagar
+#### 3.) Chikkaballapura
+#### 4.) Davanagere
+#### 5.) Gadag
+#### 6.) Haveri
+#### 7.) Koppala
+#### 8.) RAmanagara
+#### 9.) Udupi
+#### 10.) Yadagiri
 #
 ### Which district has larger area for the production of Sugarcane?
 ![Screenshot 2024-01-24 163157](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/e0210ff3-0921-4a91-b9df-04092df72900)
