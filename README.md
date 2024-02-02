@@ -26,8 +26,8 @@
 #
 #
 ## Before analysing, let us know about the data: 
-#### After importing the data source, we are concidering only those features required.
-#### The below screenshot shows the result in the form of text table.
+#### After importing the data source, I am concidering only those features required and building a text table.
+#### The below screenshot shows the result.
 
 
 
