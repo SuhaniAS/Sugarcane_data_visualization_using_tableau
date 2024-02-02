@@ -1,26 +1,45 @@
 # Data Visualization using Tableau
-### Since tableau is not a free software, all the Visualization will be shown here itself with the help of screen shots.
+### Note: Since Tableau is not a free software, all the Visualization will be shown here in the form of screen shots.
 #
 #
 ## Data Source
-### Data is taken from (Karnataka only): http://data.icrisat.org/dld/src/crops.html 
+### Data is taken from http://data.icrisat.org/dld/src/crops.html for crop, irrigation (crop wise and source wise) and farm harvest price.
 ### I have uploaded the same data in kaggle website: https://www.kaggle.com/datasets/suhanias/sugarcane-data/data
 #
 #
-## Features:
+## Features used:
 ### 1.) Year
 ### 2.) District Name
-### 3.) Sugarcane area (1000ha)
-### 4.) Sugarcane yield (kg per ha)
-### 5.) Sugarcane production (1000 tons)
+### 3.) Net area (1000 ha)
+### 4.) Gross area (1000 ha)
+### 5.) Sugarcane irrigated area (1000 ha)
+### 6.) Canals area (1000 ha)
+### 7.) Tanks area (1000 ha)
+### 8.) Total wells area (1000 ha)
+### 9.) Yield (kg per ha)
+### 10.) Harvest price (Rs per quantile)
 #
 #
 ## Objective:
-### Create different charts, graphs, dashboards, and stories for visualizing and analyzing data.
+### 1. Analysing the data using Data Visualization
+### 2. Data cleaning (if required)
 #
 #
 ## Before analysing, let us know about the data: 
-#### Import the data.
+#### After importing the data source, we are concidering only those features required.
+#### The below screenshot shows the result in the form of text table.
+
+
+
+
+
+
+
+
+
+
+
+Import the data.
 ![Screenshot 2024-01-23 193413](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/99040768-f591-4e0c-a7e0-4a66949a6b46)
 #### From the status bar we get to know that there are 30 districts.
 #### To make further process easier, let us introduce color for each of the district.
