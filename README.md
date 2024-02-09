@@ -1,4 +1,4 @@
-# Data Visualization using Tableau
+# Data Analysis using Python and Tableau
 ### Note: Since Tableau is not a free software, all the Visualization will be shown here in the form of screen shots.
 #
 #
