@@ -10,68 +10,11 @@
 ## Features used:
 ### 1.) Year
 ### 2.) District Name
-### 3.) Net area (1000 ha)
-### 4.) Gross area (1000 ha)
-### 5.) Sugarcane irrigated area (1000 ha)
-### 6.) Canals area (1000 ha)
-### 7.) Tanks area (1000 ha)
-### 8.) Total wells area (1000 ha)
-### 9.) Yield (kg per ha)
-### 10.) Harvest price (Rs per quantile)
+### 3.) Sugarcane irrigated area (1000 ha)
+### 4.) Yield (kg per ha)
+### 5.) Harvest price (Rs per quantile)
 #
 #
 ## Objective:
-### 1. Analysing the data using Data Visualization
-### 2. Data cleaning (if required)
-#
-#
-## Before analysing, let us know about the data: 
-#### After importing the data source, I am concidering only those features required and building a text table.
-#### The below screenshot shows the result.
-
-
-
-
-
-
-
-
-
-
-
-Import the data.
-![Screenshot 2024-01-23 193413](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/99040768-f591-4e0c-a7e0-4a66949a6b46)
-#### From the status bar we get to know that there are 30 districts.
-#### To make further process easier, let us introduce color for each of the district.
-![Screenshot 2024-01-23 193503](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/dacb628c-b528-4ceb-9de2-dc2acd492463)
-#
-![Screenshot 2024-01-24 161013](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/77c2ab87-ed2b-454e-91d3-9b9092c48f05)
-#### Thus, the data is available from the year 1990 - 2017.
-### Whether the data from the year 1990 - 2017 is available for all the 30 districts?
-#### We can answer it using two methods of visualization.
-![Screenshot 2024-01-28 193042](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/cfde5366-ae11-4e87-b119-48c42e05732b)
-![Screenshot 2024-01-28 193454](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/8273f7b2-aa51-42a7-aa57-87b8b23aa4e5)
-#### The following districts do not have the complete data from the year 1990 - 2017:
-#### 1.) Bagalkote
-#### 2.) Chamaraja Nagar
-#### 3.) Chikkaballapura
-#### 4.) Davanagere
-#### 5.) Gadag
-#### 6.) Haveri
-#### 7.) Koppala
-#### 8.) RAmanagara
-#### 9.) Udupi
-#### 10.) Yadagiri
-#
-### Which district has larger area for the production of Sugarcane?
-![Screenshot 2024-01-24 163157](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/e0210ff3-0921-4a91-b9df-04092df72900)
-#### Belgaum has the larger area for the production of Sugarcane with 4157000 ha of land.
-![Screenshot 2024-01-24 164049](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/95b9cfca-20d4-439a-902f-9a54384efae4)
-#### Mandya has greater yield with 313510 kg per ha when compaired to other districts.
-![Screenshot 2024-01-24 164904](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/a3a9faa5-e82a-4cd6-82b4-59a694b151cb)
-#### When area is considered along, we can see that some of the districts has larger yield with lesser production area. 
-#### Along with the above, we can notice that though Belagaum has larger area (among the districts) it has lesser yield.
-#### Now consider distric wise. 
-### 1.) Bagalkote:
-![Screenshot 2024-01-24 165459](https://github.com/SuhaniAS/Sugarcane_data_visualization_using_tableau/assets/137792301/f0478c1a-a607-4650-bd45-831107f65d81)
-#### There is reduction in yield though there is a change in the amount of area.
+### 1. Data preparation using Jupyter notebook
+### 2. Analysing the data using Tableau.
